@@ -16,6 +16,7 @@ dependencies = [
     "seaborn>=0.13.2",
     "timm>=1.0.30",
     "torch==2.14.0",
+    "ultralytics>=8.4.170",
 ]
 
 [[tool.uv.index]]
