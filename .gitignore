@@ -14,3 +14,18 @@ data
 
 # Model checkpoints
 models
+
+# Carpeta privada del profesor
+seguimiento/
+
+.DS_Store
+.claude
+
+# Notebooks de tutoriales
+notebooks_tutoriales
+
+# Resultados de entrenamiento YOLO
+runs
+
+# Pesos de modelos YOLO
+*.pt
